@@ -5,4 +5,4 @@ if (x) {
     console.log('Hello World');
 }
 
-console.log(add(6, 7));
+console.log(add(1, '-1'));
